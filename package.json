@@ -1,6 +1,6 @@
 {
-  "name": "node-imei",
-  "version": "1.0.2",
+  "name": "imei-android",
+  "version": "3.2.0",
   "description": "imei generator/checker",
   "main": "./scr/imei.js",
   "devDependencies": {},
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BadMachine/node-imei.git"
+    "url": "git+https://github.com/waesxl/imei-android.git"
   },
   "keywords": [
     "imei",
@@ -19,7 +19,7 @@
   "author": "ME",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/BadMachine/node-imei/issues"
+    "url": "https://github.com/waesxl/imei-android"
   },
-  "homepage": "https://github.com/BadMachine/node-imei#readme"
+  "homepage": "https://github.com/waesxl/imei-android"
 }
