@@ -1,0 +1,20 @@
+{
+  "name": "imei-android",
+  "version": "1.0.0",
+  "description": "imei-android/checker",
+  "main": "./scr/imei.js",
+  "scripts": {
+    "build": "webpack --progress --display-error-details --display-entrypoints --display-reasons"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waesxl/imei-android.git"
+  },
+  "keywords": [],
+  "author": "waesxl",
+  "license": "ISC",
+  "bugs": {
+    "url": "git+https://github.com/waesxl/imei-android.git"
+  },
+  "homepage": "git+https://github.com/waesxl/imei-android.git#readme"
+}
